@@ -1,0 +1,7 @@
+171238@lab215-ws22 MINGW64 ~/SI_171238_lab1 (logs)
+$ git log
+commit 3fafa9df3f5ecc8982c4ecce9b301fe3a3ee8a1b (HEAD -> logs, origin/master, master)
+Author: unknown <Damjan.Velkovski@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:23:05 2019 +0200
+
+    Initial commit
